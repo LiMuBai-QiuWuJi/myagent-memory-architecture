@@ -70,8 +70,6 @@ myagent-memory-architecture/
 ## 下载
 
 - GitHub：本仓库
-- 网盘（国内更快，内容与 GitHub 一致）：
-  `https://pan.baidu.com/s/10GeagItNuR-PO8YIWjT1tw?pwd=qyjt` 提取码 `qyjt`
 - 配套的存储架构：[myagent-storage-architecture](https://github.com/LiMuBai-QiuWuJi/myagent-storage-architecture)
 
 ## 边界
