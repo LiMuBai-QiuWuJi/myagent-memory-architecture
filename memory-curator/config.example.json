@@ -1,0 +1,12 @@
+{
+  "halfLifeDays": 30,
+  "globalHotLimit": 16,
+  "projectHotLimit": 24,
+  "importanceDefault": 3,
+  "recentBoostDays": 7,
+  "recentBoost": 0.8,
+  "archiveAfterDays": 90,
+  "privateDir": "",
+  "privateQuotaGB": 20,
+  "privateWarnAtGB": 18
+}
